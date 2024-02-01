@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    
     <head>
     <style> body {
    
@@ -28,6 +29,7 @@
         <title>Torta FROCIAH by Helenasantoro</title>
         <media charset="UTF-8">
     </head>
+            
     <body>
         <h1> Torte brutte By Helena Santoro</h1>
         <div>
@@ -39,11 +41,12 @@
             <h4>E MODESTAMENTE</h4>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Macaca_nigra_self-portrait_large.jpg/220px-Macaca_nigra_self-portrait_large.jpg" alt="a famous mocaco">
            </div> 
+           
         <div>
             <h5>Bando alle ciance, ciancio alle bande....</h5>
             <P>Recipe Torta ai frutti di bosco e fichi vegana:<br>
                 (quello che rimembro... perchè il primo ingrediente è stata la fantasia)<br>
-                INGREDIENTS: (COME SE La FACEESSE <a href="https://statics.cedscdn.it/uploads/ckfile/202206/THE_PASTA_QUEEN_DAY_3_01_0098_29125603.jpg">PASTAQUEEN):</a><br>
+                INGREDIENTS: (COME SE LA FACEESSE <a href="https://statics.cedscdn.it/uploads/ckfile/202206/THE_PASTA_QUEEN_DAY_3_01_0098_29125603.jpg">PASTAQUEEN):</a><br>
                 <ul> 
                     <p>Ingredienti principali... l'amore ...la creatività, e infine genio e modestia..</p>
                     <li>Farina </li>
@@ -51,7 +54,7 @@
                         <br> (lo trovi da lidl, oppure usa la margarina)</li>
                     <li>Limoncello</li>
                     <li>Panna vegana</li>
-                    <li>zuxxhero a velo</li>
+                    <li>zucchero a velo</li>
                     <li>Zucchero di snoop dog </li>
                     <li>Marmellata ai fichi, e marmellata ai frutti di bosco</li>
                     <li>Lievito per dolci, vanillina o bacca divaniglia</li>
@@ -63,7 +66,9 @@
                     </li>
                 </ul>
             </P>
+            
             </div>
+            
             <div>
                 <h2>E adesso??</h2>
                 <h3>aeh..</h3>
@@ -95,7 +100,7 @@
                 <p>Prendi tutto quello che si trova sui fornelli, e portalo sul piano di lavoro.<br>
                     All'impasto aggiungi mezzo barattolo di marmellata ai frutti e mezzo di quello ai fichi.<br>
                     Ora prendi il burro fuso e mettilo nell'impasto.<br>
-                    Cerchiamo una consistenza viscosa si, ma non troppo <br>>
+                    Cerchiamo una consistenza viscosa si, ma non troppo <br>
                     Lancia a cascat le mandorle.<br>
                     Mischia tutto<br>
                     Ora prendi la forma e imburra <br>
@@ -119,9 +124,8 @@
     <br>
     e Chiudi.
     Mo prendi sta panna, e decora come se fossi un carpentiere.
-E se ti è rimsta un po' di marmellata decora a caso,<br> sembrerà dadaismo.. <br>non di certo che non sappiamo fare le torte.
-">
-        </div>
+E se ti è rimsta un po' di marmellata decora a caso,<br> sembrerà dadaismo.. <br>non di certo che non sappiamo fare le torte.</p>
+      
     <div><h4>Io non so se la torta ti sia venuta</h4>
     <h3>Me lo auguro</h3>
 <h2>E me ne assumo le responsabilità</h2>
