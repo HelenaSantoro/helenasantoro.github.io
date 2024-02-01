@@ -130,6 +130,7 @@ E se ti è rimsta un po' di marmellata decora a caso,<br> sembrerà dadaismo.. <
     <h3>Me lo auguro</h3>
 <h2>E me ne assumo le responsabilità</h2>
 <h1>Sperando che Antonio La Marca e Iginio massari non leggano mai tutto ciò!!</h1>
-</div></body>
+</div>
+</body>
 </html>
 
