@@ -1,8 +1,7 @@
-<!DOCTYPE html">
+<!DOCTYPE html>
 <html lang="en">
     <head>
-    <style> 
-        body {
+    <style> body {
    
         box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
         text-align: center;
@@ -37,7 +36,7 @@
         <h1>Vi chiederete come?</h1>
             <p>Ho realizzato il vostro sogno lo so...</p>
             <p>Il mondo aspettava un eroe......</p>
-            <h4><bold>E MODESTAMENTE<bold></h4>
+            <h4>E MODESTAMENTE></h4>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Macaca_nigra_self-portrait_large.jpg/220px-Macaca_nigra_self-portrait_large.jpg" alt="a famous mocaco">
            </div> 
         <div>
@@ -128,4 +127,5 @@ E se ti è rimsta un po' di marmellata decora a caso,<br> sembrerà dadaismo.. <
 <h2>E me ne assumo le responsabilità</h2>
 <h1>Sperando che Antonio La Marca e Iginio massari non leggano mai tutto ciò!!</h1>
 </div></body>
+</html>
 </html>
