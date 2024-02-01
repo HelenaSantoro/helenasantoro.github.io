@@ -18,7 +18,7 @@
             color:rgb(207, 175, 211) ;
         }
         img {
-            width: 100%;
+           
             width: 100%;
       max-width: 350px;
     
@@ -27,7 +27,7 @@
     
 </style>    
         <title>Torta FROCIAH by Helenasantoro</title>
-        <media charset="UTF-8">
+        <meta charset="UTF-8">
     </head>
             
     <body>
