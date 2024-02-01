@@ -1,9 +1,33 @@
 <!DOCTYPE html">
 <html lang="en">
     <head>
-        <link rel="stylesheet" href="barbie.css">
+    <style> 
+        body {
+   
+        box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+        text-align: center;
+        font-size: medium;
+        color: aliceblue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            background-color: rgb(228, 104, 166);
+    }
+    div {
+        background-color: rgb(99, 6, 52); }
+    
+        h1, h2, h3, h4, h5, h6 {
+            color:rgb(207, 175, 211) ;
+        }
+        img {
+            width: 100%;
+            width: 100%;
+      max-width: 350px;
+    
+            object-fit: cover;
+            border-radius: 10px; }
+    
+</style>    
         <title>Torta FROCIAH by Helenasantoro</title>
-        <media charset="UTF-8"
+        <media charset="UTF-8">
     </head>
     <body>
         <h1> Torte brutte By Helena Santoro</h1>
